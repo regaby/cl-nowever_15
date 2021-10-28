@@ -39,6 +39,7 @@
 
     'git-repos': [
         'https://github.com/regaby/cl-nowever_15.git',
+        'https://github.com/jcelguerablas/odoo',
     ],
 
     # list of images to use in the form 'name image-url'
