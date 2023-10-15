@@ -137,6 +137,8 @@
         'https://github.com/OCA/reporting-engine.git',
         'https://github.com/OCA/stock-logistics-warehouse.git',
         'https://github.com/odoo/design-themes.git',
+        'https://github.com/OCA/web.git',
+        'https://github.com/plugberry/mercadopago',
     ],
 
     # list of images to use in the form 'name image-url'
