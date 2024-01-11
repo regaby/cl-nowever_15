@@ -139,6 +139,7 @@
         'https://github.com/odoo/design-themes.git',
         'https://github.com/OCA/web.git',
         'https://github.com/plugberry/mercadopago',
+        'https://github.com/regaby/whatsapp_integration_crm.git',
     ],
 
     # list of images to use in the form 'name image-url'
